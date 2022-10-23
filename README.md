@@ -1,4 +1,4 @@
-# Kato Discord Bot 
+# Felbot Discord Bot 
 [![Support via Trakteer](https://img.shields.io/badge/Support-me!-green)](https://trakteer.id/katowproject)
 [![License](https://img.shields.io/badge/LICENSE-CC--BY--SA--4.0-green)](https://github.com/KatowProject/Kato-Bot/blob/master/LICENSE)
 [![Discord.js Version](https://img.shields.io/badge/discord.js-v12-green)]()
@@ -19,8 +19,8 @@ memodifikasi projek ini ke publik. __Namun, biarkan lisensi ini sebagai credit/a
 
 [![Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/ "Redirect to Creative Commons")
 
-## Develover
-- ManLord#3143
+## Developer
+- Failzuma#8401
 
 ### Instalasi
 - Instal node.js (V16 ke atas)
