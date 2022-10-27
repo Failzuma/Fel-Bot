@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/LICENSE-CC--BY--SA--4.0-green)](https://github.com/Failzuma/Fel-Bot/blob/master/LICENSE)
 [![Discord.js Version](https://img.shields.io/badge/discord.js-v12-green)]()
 [![Bot Status](https://img.shields.io/badge/Status-Online-green)]()
-<p align="center"><img src="https://cdn.discordapp.com/attachments/496983030993518592/756818262771367956/102389586_135893838084980_7401656178564981492_o.jpg" /></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/1034397080657072148/1035021422159994890/guoba_sad.png" /></p>
 
 ## About
 FelBOT discord bot
