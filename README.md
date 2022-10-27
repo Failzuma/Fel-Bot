@@ -1,7 +1,7 @@
 # Felbot Discord Bot 
 [![License](https://img.shields.io/badge/LICENSE-CC--BY--SA--4.0-green)](https://github.com/Failzuma/Fel-Bot/blob/master/LICENSE)
 [![Discord.js Version](https://img.shields.io/badge/discord.js-v12-green)]()
-
+[![Bot Status](https://img.shields.io/badge/Online-green)]()
 <p align="center"><img src="https://cdn.discordapp.com/attachments/496983030993518592/756818262771367956/102389586_135893838084980_7401656178564981492_o.jpg" /></p>
 
 ## About
